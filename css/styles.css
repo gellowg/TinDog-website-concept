@@ -249,3 +249,7 @@ h2 {
 .that {
     font-size: 3rem !important;
 }
+
+#pricing {
+    margin-bottom: 25px;
+}
